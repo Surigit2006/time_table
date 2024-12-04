@@ -180,6 +180,9 @@ Execute the program using runserver command.
 
 </html>
 # OUTPUT
+
+
+
 ![Screenshot 2024-12-04 131218](https://github.com/user-attachments/assets/9a1b4f82-8e44-46cf-8b6a-5e6eb187851e)
 
 
